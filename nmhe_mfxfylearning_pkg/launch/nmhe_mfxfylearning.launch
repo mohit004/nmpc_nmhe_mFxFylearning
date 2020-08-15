@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="nmhe_mfxfylearning_pkg" type="nmhe_mfxfylearning" name="nmhe_mfxfylearning" output="screen" />
+</launch>
+
