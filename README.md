@@ -5,7 +5,7 @@ ROS packages for Nonlinear model predictive controller (NMPC) and nonlinear movi
 1. roslaunch nmpc_pc_mfxfylearning_pkg nmpc_pc_mfxfylearning.launch
 2. roslaunch nmhe_mfxfylearning_pkg nmhe_mfxfylearning.launch
 
-Moreover, the following package can be used to command the reference trajectory:
+Moreover, the following package can be used to command the reference trajectory:\
 [trajectories](https://github.com/mohit004/trajectories): A ROS package to generate reference trajectories.
 
 These NMPC and NMHE packages are utilized in the following works. Please don't forget to consider citing them if you use these code in your work.
