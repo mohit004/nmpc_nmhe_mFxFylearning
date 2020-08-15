@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="nmpc_pc_mfxfylearning_pkg" type="nmpc_pc_mfxfylearning" name="nmpc_pc_mfxfylearning" output="screen" />
+</launch>
