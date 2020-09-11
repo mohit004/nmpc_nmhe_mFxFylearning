@@ -9,6 +9,7 @@ Moreover, the following package can be used to command the reference trajectory:
 [trajectories](https://github.com/mohit004/trajectories): A ROS package to generate reference trajectories.
 
 These NMPC and NMHE packages are utilized in the following works. Please don't forget to consider citing them if you use these codes in your work.
+
 **Plain Text:**
 ```
 Mehndiratta M., Kayacan E., Patel S., Kayacan E., Chowdhary G. (2019) Learning-Based Fast Nonlinear Model Predictive Control for Custom-Made 3D Printed Ground and Aerial Robots. In: Raković S., Levine W. (eds) Handbook of Model Predictive Control. Control Engineering. Birkhäuser, Cham. https://doi.org/10.1007/978-3-319-77489-3_24
